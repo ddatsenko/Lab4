@@ -1,0 +1,10 @@
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab4_3A\bin\Debug\Lab4_3A.exe.config
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab4_3A\bin\Debug\Lab4_3A.exe
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab4_3A\bin\Debug\Lab4_3A.pdb
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab4_3A\obj\Debug\Lab4_3A.csprojAssemblyReference.cache
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab4_3A\obj\Debug\Lab4_3A.Form1.resources
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab4_3A\obj\Debug\Lab4_3A.Properties.Resources.resources
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab4_3A\obj\Debug\Lab4_3A.csproj.GenerateResource.cache
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab4_3A\obj\Debug\Lab4_3A.csproj.CoreCompileInputs.cache
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab4_3A\obj\Debug\Lab4_3A.exe
+C:\Users\Денис\Desktop\Uni\ПАЛМ\2nd semester\Lab4_3A\obj\Debug\Lab4_3A.pdb
